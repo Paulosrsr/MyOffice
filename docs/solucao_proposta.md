@@ -16,15 +16,15 @@ Dessa forma, o produto pretende oferecer um ambiente único para registro, acomp
 ## 2.2 Objetivos Especifícos (OE) do Produto 
 
 
-- **OE1 - Registrar de forma simples o tempo dedicado a estudo, trabalho, lazer e projetos sociais.
+- *OE1* - Registrar de forma simples o tempo dedicado a estudo, trabalho, lazer e projetos sociais.
 
-- **OE2 - Aumentar a constância e a motivação por meio de elementos de jogo (moedas, sequência, metas, conquistas).
+- *OE2* - Aumentar a constância e a motivação por meio de elementos de jogo (moedas, sequência, metas, conquistas).
 
-- **OE3 - Dar visibilidade de como o tempo é distribuído entre atividades e categorias.
+- *OE3* - Dar visibilidade de como o tempo é distribuído entre atividades e categorias.
 
-- **OE4 - Oferecer um ambiente visual agradável e personalizável, em formato de escritório.
+- *OE4* - Oferecer um ambiente visual agradável e personalizável, em formato de escritório.
 
-- **OE5 - Manter os dados sob controle do usuário, locais e com backup.
+- *OE5* - Manter os dados sob controle do usuário, locais e com backup.
 
 
 ## 2.3 Características do Produto 
